@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+#style{
+		border-radius:20px;
+	height:300px;
+	width:300px;
+}
+#photo-heading{
+	text-align:center;
+	color:white;
+	font-size:50px;
+	font-family:magenta;
+}
+.bg{
+	background-color:grey
+}
